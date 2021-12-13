@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+html{
+    background-color: rgb(39, 184, 184);
+    background-size: 100%;
+    display: block;
+    text-align: center;
+}
+section{
+    max-height: auto;
+    max-width: 600px;
+    background-color: white;
+    margin: 100px auto auto auto;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+ul{
+    text-align: left;
+    font-size: 30px;
+}
